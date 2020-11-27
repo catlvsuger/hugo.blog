@@ -1,8 +1,8 @@
 +++
 title = "Hadoop Hbase HA高可用集群搭建"
 date = "2018-11-01T08:00:00+08:00"
-categories = "Hbase"
-tags = ["Java", "Hbase", "Hadoop"]
+categories = "大数据"
+tags = ["大数据"]
 description = ""
 #image = null  # To use: uncomment and replace null with value
 "<!-- link" = "https://www.jianshu.com/p/9bd2327230c1 -->"
